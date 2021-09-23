@@ -1,0 +1,3 @@
+# inetBankingV1
+InetBanking_Project
+This is my learning project framework on Selenium Automation.....

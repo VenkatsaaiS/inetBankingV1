@@ -1,0 +1,251 @@
+2021-09-21 23:24:51,795 - Ecommerce -INFO - URL is accessed
+2021-09-21 23:24:56,108 - Ecommerce -INFO - Entered UserName
+2021-09-21 23:24:56,333 - Ecommerce -INFO - Entered Password
+2021-09-21 23:24:58,259 - Ecommerce -INFO - Accessed TitlePage Name
+2021-09-21 23:24:58,270 - Ecommerce -INFO - Comparing Actual TitlePage Name with Expected TitlePage Name
+2021-09-22 00:10:40,723 - Ecommerce -INFO - URL is accessed
+2021-09-22 00:10:45,642 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 00:10:46,276 - Ecommerce -INFO - Entered UserName
+2021-09-22 00:10:47,050 - Ecommerce -INFO - Entered Password
+2021-09-22 00:10:49,617 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 00:10:49,632 - Ecommerce -INFO - Comparing Actual Title Name with Expected Title Name
+2021-09-22 00:30:04,199 - Ecommerce -INFO - URL is accessed
+2021-09-22 00:30:09,215 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 00:30:11,622 - Ecommerce -INFO - Entered UserName
+2021-09-22 00:30:11,839 - Ecommerce -INFO - Entered Password
+2021-09-22 00:30:13,154 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 00:30:13,166 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 00:30:13,266 - Ecommerce -INFO - Comparing Actual Title Name with Expected Title Name
+2021-09-22 00:42:19,987 - Ecommerce -INFO - URL is accessed
+2021-09-22 00:42:28,369 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 00:42:30,927 - Ecommerce -INFO - Entered UserName
+2021-09-22 00:42:31,241 - Ecommerce -INFO - Entered Password
+2021-09-22 00:42:32,794 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 00:42:32,794 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 00:42:32,826 - Ecommerce -INFO - Comparing Actual Title Name with Expected Title Name
+2021-09-22 00:45:43,700 - Ecommerce -INFO - URL is accessed
+2021-09-22 00:45:47,763 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 00:45:48,676 - Ecommerce -INFO - Entered UserName
+2021-09-22 00:45:48,865 - Ecommerce -INFO - Entered Password
+2021-09-22 00:45:50,687 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 00:45:50,736 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 00:45:50,748 - Ecommerce -INFO - Comparing Actual Title Name with Expected Title Name
+2021-09-22 01:15:57,007 - Ecommerce -INFO - URL is accessed
+2021-09-22 01:15:59,252 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 01:15:59,986 - Ecommerce -INFO - Entered UserName
+2021-09-22 01:16:00,175 - Ecommerce -INFO - Entered Password
+2021-09-22 01:16:01,791 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 01:16:01,834 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 01:16:01,861 - Ecommerce -INFO - Comparing Actual Title Name with Expected Title Name
+2021-09-22 01:48:34,703 - Ecommerce -INFO - URL is accessed
+2021-09-22 01:48:39,309 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 01:48:40,824 - Ecommerce -INFO - Entered UserName
+2021-09-22 01:48:41,381 - Ecommerce -INFO - Entered Password
+2021-09-22 01:48:42,407 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 01:48:42,422 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 01:48:42,431 - Ecommerce -INFO - Test Case Passed
+2021-09-22 01:49:35,986 - Ecommerce -INFO - URL is accessed
+2021-09-22 01:49:37,048 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 01:49:37,267 - Ecommerce -INFO - Entered UserName
+2021-09-22 01:49:37,423 - Ecommerce -INFO - Entered Password
+2021-09-22 01:49:39,361 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 01:49:39,376 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 13:06:59,328 - Ecommerce -INFO - URL is accessed
+2021-09-22 13:07:01,806 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 13:07:05,480 - Ecommerce -INFO - Test Case Passed
+2021-09-22 13:11:27,119 - Ecommerce -INFO - URL is accessed
+2021-09-22 13:11:28,706 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 13:11:29,335 - Ecommerce -INFO - Entered UserName
+2021-09-22 13:11:29,636 - Ecommerce -INFO - Entered Password
+2021-09-22 13:11:30,704 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 13:11:30,762 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 13:11:41,875 - Ecommerce -INFO - URL is accessed
+2021-09-22 13:11:42,812 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 13:11:44,307 - Ecommerce -INFO - Test Case Passed
+2021-09-22 17:06:31,871 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:06:33,492 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:06:33,998 - Ecommerce -INFO - Entered UserName
+2021-09-22 17:06:34,218 - Ecommerce -INFO - Entered Password
+2021-09-22 17:06:35,355 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 17:06:36,826 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 17:06:36,968 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:06:37,485 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:06:39,938 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:06:40,587 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:06:40,958 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:06:41,609 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:06:42,022 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:06:42,614 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:20:35,845 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:20:37,450 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:20:38,031 - Ecommerce -INFO - Entered UserName
+2021-09-22 17:20:38,234 - Ecommerce -INFO - Entered Password
+2021-09-22 17:20:39,191 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 17:20:42,372 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 17:20:42,646 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:20:43,245 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:20:44,051 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:20:44,680 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:58:17,761 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:58:19,756 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:58:20,225 - Ecommerce -INFO - Entered UserName
+2021-09-22 17:58:20,487 - Ecommerce -INFO - Entered Password
+2021-09-22 17:58:21,901 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 17:58:21,937 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 17:58:21,966 - Ecommerce -INFO - Test Case Passed
+2021-09-22 17:58:52,704 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:58:56,475 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:58:57,428 - Ecommerce -INFO - Entered UserName
+2021-09-22 17:58:57,667 - Ecommerce -INFO - Entered Password
+2021-09-22 17:58:59,049 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 17:59:01,530 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 17:59:01,946 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:59:03,063 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:59:04,382 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:59:05,511 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:59:32,158 - Ecommerce -INFO - URL is accessed
+2021-09-22 17:59:33,406 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 17:59:34,958 - Ecommerce -INFO - Test Case Passed
+2021-09-22 18:07:31,616 - Ecommerce -INFO - URL is accessed
+2021-09-22 18:07:33,420 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 18:07:34,018 - Ecommerce -INFO - Entered UserName
+2021-09-22 18:07:34,179 - Ecommerce -INFO - Entered Password
+2021-09-22 18:07:35,605 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 18:07:35,614 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 18:07:35,652 - Ecommerce -INFO - Test Case Passed
+2021-09-22 18:08:23,128 - Ecommerce -INFO - URL is accessed
+2021-09-22 18:08:25,956 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 18:08:26,641 - Ecommerce -INFO - Entered UserName
+2021-09-22 18:08:26,909 - Ecommerce -INFO - Entered Password
+2021-09-22 18:08:28,384 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 18:08:32,746 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 18:08:33,091 - Ecommerce -INFO - URL is accessed
+2021-09-22 18:08:34,052 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 18:08:35,198 - Ecommerce -INFO - URL is accessed
+2021-09-22 18:08:35,944 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 18:09:22,701 - Ecommerce -INFO - URL is accessed
+2021-09-22 18:09:24,803 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 18:09:30,954 - Ecommerce -INFO - Test Case Passed
+2021-09-22 19:15:01,545 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:15:03,741 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:15:04,189 - Ecommerce -INFO - Entered UserName
+2021-09-22 19:15:04,337 - Ecommerce -INFO - Entered Password
+2021-09-22 19:15:05,974 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 19:15:05,984 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 19:15:25,106 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:15:26,614 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:15:26,767 - Ecommerce -INFO - Entered UserName
+2021-09-22 19:15:26,901 - Ecommerce -INFO - Entered Password
+2021-09-22 19:15:28,544 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 19:15:30,731 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 19:15:30,861 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:15:31,672 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:15:32,639 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:15:33,571 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:15:44,311 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:15:45,439 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:34:54,481 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:34:55,987 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:34:56,507 - Ecommerce -INFO - Entered UserName
+2021-09-22 19:34:56,675 - Ecommerce -INFO - Entered Password
+2021-09-22 19:34:58,566 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 19:34:58,653 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 19:35:22,713 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:35:24,295 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:35:24,441 - Ecommerce -INFO - Entered UserName
+2021-09-22 19:35:24,574 - Ecommerce -INFO - Entered Password
+2021-09-22 19:35:26,070 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 19:35:28,802 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 19:35:29,149 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:35:29,979 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:35:30,473 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:35:31,446 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:35:41,143 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:35:42,897 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:42:42,581 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:42:44,486 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:42:45,001 - Ecommerce -INFO - Entered UserName
+2021-09-22 19:42:45,255 - Ecommerce -INFO - Entered Password
+2021-09-22 19:42:46,970 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 19:42:47,062 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 19:43:06,382 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:43:08,190 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:43:08,344 - Ecommerce -INFO - Entered UserName
+2021-09-22 19:43:08,485 - Ecommerce -INFO - Entered Password
+2021-09-22 19:43:10,116 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 19:43:13,355 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 19:43:13,653 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:43:14,493 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 19:43:23,182 - Ecommerce -INFO - URL is accessed
+2021-09-22 19:43:24,335 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 21:10:59,892 - Ecommerce -INFO - URL is accessed
+2021-09-22 21:11:03,716 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 21:11:04,713 - Ecommerce -INFO - Entered UserName
+2021-09-22 21:11:05,114 - Ecommerce -INFO - Entered Password
+2021-09-22 21:11:07,233 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 21:11:09,090 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 21:11:09,475 - Ecommerce -INFO - URL is accessed
+2021-09-22 21:11:10,355 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 21:20:32,690 - Ecommerce -INFO - URL is accessed
+2021-09-22 21:20:36,486 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 21:20:37,828 - Ecommerce -INFO - Entered UserName
+2021-09-22 21:20:38,123 - Ecommerce -INFO - Entered Password
+2021-09-22 21:20:39,875 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 21:20:41,928 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 23:12:48,619 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:12:50,697 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:12:52,171 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:12:52,500 - Ecommerce -INFO - Entered Password
+2021-09-22 23:12:53,959 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 23:12:56,855 - Ecommerce -INFO - Clicked Logout button
+2021-09-22 23:21:26,363 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:21:27,667 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:21:27,956 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:21:28,110 - Ecommerce -INFO - Entered Password
+2021-09-22 23:21:28,822 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 23:21:28,851 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 23:21:28,875 - Ecommerce -INFO - Test Case Passed
+2021-09-22 23:23:56,435 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:23:57,361 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:23:57,538 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:23:57,682 - Ecommerce -INFO - Entered Password
+2021-09-22 23:23:58,317 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 23:23:58,354 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 23:23:58,374 - Ecommerce -INFO - Test Case Passed
+2021-09-22 23:40:53,109 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:40:54,589 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:40:55,134 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:40:55,427 - Ecommerce -INFO - Entered Password
+2021-09-22 23:40:56,205 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 23:40:56,246 - Ecommerce -INFO - Retrieving TitlePage Name
+2021-09-22 23:40:56,272 - Ecommerce -INFO - Test Case Passed
+2021-09-22 23:46:23,869 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:46:25,852 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:46:26,326 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:46:26,634 - Ecommerce -INFO - Entered Password
+2021-09-22 23:46:27,443 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 23:49:51,649 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:49:52,586 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:49:52,762 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:49:52,881 - Ecommerce -INFO - Entered Password
+2021-09-22 23:49:53,562 - Ecommerce -INFO - Clicked Submit button
+2021-09-22 23:54:20,991 - Ecommerce -INFO - URL is accessed
+2021-09-22 23:54:24,533 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-22 23:54:24,684 - Ecommerce -INFO - Entered UserName
+2021-09-22 23:54:24,811 - Ecommerce -INFO - Entered Password
+2021-09-22 23:54:25,477 - Ecommerce -INFO - Clicked Submit button
+2021-09-23 00:02:02,500 - Ecommerce -INFO - URL is accessed
+2021-09-23 00:02:03,640 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-23 00:02:03,805 - Ecommerce -INFO - Entered UserName
+2021-09-23 00:02:03,974 - Ecommerce -INFO - Entered Password
+2021-09-23 00:02:04,600 - Ecommerce -INFO - Clicked Submit button
+2021-09-23 00:10:18,130 - Ecommerce -INFO - URL is accessed
+2021-09-23 00:10:19,953 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-23 00:10:21,058 - Ecommerce -INFO - Entered UserName
+2021-09-23 00:10:21,748 - Ecommerce -INFO - Entered Password
+2021-09-23 00:10:22,951 - Ecommerce -INFO - Clicked Submit button
+2021-09-23 00:52:12,634 - Ecommerce -INFO - URL is accessed
+2021-09-23 00:52:28,578 - Ecommerce -INFO - Clicked on Account Menu Link
+2021-09-23 00:52:36,146 - Ecommerce -INFO - Entered UserName
+2021-09-23 00:52:37,057 - Ecommerce -INFO - Entered Password
+2021-09-23 00:52:38,138 - Ecommerce -INFO - Clicked Submit button

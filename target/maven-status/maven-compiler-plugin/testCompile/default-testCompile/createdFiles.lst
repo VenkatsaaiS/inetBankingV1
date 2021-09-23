@@ -1,0 +1,11 @@
+org\inetbanking\tests\LoginDDT.class
+org\inetbanking\utilities\ExcelUtils.class
+org\inetbanking\pom\HeaderPage.class
+org\inetbanking\utilities\Reporting.class
+org\inetbanking\base\BaseTest.class
+org\inetbanking\tests\LoginTest.class
+org\inetbanking\tests\RegistrationTest.class
+org\inetbanking\pom\RegistrationPage.class
+org\inetbanking\utilities\ReadConfig.class
+org\inetbanking\base\BasePage.class
+org\inetbanking\pom\LoginPage.class

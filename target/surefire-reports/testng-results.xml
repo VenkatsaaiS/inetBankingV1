@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-23T14:46:26 IST" name="inetBankingV1" finished-at="2021-09-23T14:50:00 IST" duration-ms="214225">
+    <groups>
+    </groups>
+    <test started-at="2021-09-23T14:46:26 IST" name="Ecommerce_Test" finished-at="2021-09-23T14:50:00 IST" duration-ms="214225">
+      <class name="org.inetbanking.tests.LoginTest">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.inetbanking.tests.LoginTest@13aaf41]" started-at="2021-09-23T14:48:52 IST" name="startDriver" finished-at="2021-09-23T14:48:57 IST" duration-ms="4827" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="loginTest()[pri:0, instance:org.inetbanking.tests.LoginTest@13aaf41]" started-at="2021-09-23T14:48:57 IST" name="loginTest" finished-at="2021-09-23T14:49:20 IST" duration-ms="23189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:org.inetbanking.tests.LoginTest@13aaf41]" started-at="2021-09-23T14:49:20 IST" name="quitDriver" finished-at="2021-09-23T14:49:21 IST" duration-ms="1145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginTest status=SUCCESS method=LoginTest.loginTest()[pri:0, instance:org.inetbanking.tests.LoginTest@13aaf41] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- org.inetbanking.tests.LoginTest -->
+      <class name="org.inetbanking.tests.LoginDDT">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.inetbanking.tests.LoginDDT@56cdac]" started-at="2021-09-23T14:49:29 IST" name="startDriver" finished-at="2021-09-23T14:49:34 IST" duration-ms="5102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="loginDDT(java.lang.String,java.lang.String)[pri:0, instance:org.inetbanking.tests.LoginDDT@56cdac]" started-at="2021-09-23T14:49:34 IST" name="loginDDT" data-provider="LoginData" finished-at="2021-09-23T14:49:57 IST" duration-ms="22857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dummy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dummypwd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:org.inetbanking.tests.LoginDDT@56cdac]" started-at="2021-09-23T14:49:57 IST" name="quitDriver" finished-at="2021-09-23T14:50:00 IST" duration-ms="2666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginDDT status=SUCCESS method=LoginDDT.loginDDT(java.lang.String,java.lang.String)[pri:0, instance:org.inetbanking.tests.LoginDDT@56cdac] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- org.inetbanking.tests.LoginDDT -->
+      <class name="org.inetbanking.tests.RegistrationTest">
+        <test-method is-config="true" signature="startDriver(java.lang.String)[pri:0, instance:org.inetbanking.tests.RegistrationTest@1f9ce3e]" started-at="2021-09-23T14:46:28 IST" name="startDriver" finished-at="2021-09-23T14:48:41 IST" duration-ms="133019" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="RegistrationTest()[pri:0, instance:org.inetbanking.tests.RegistrationTest@1f9ce3e]" started-at="2021-09-23T14:48:41 IST" name="RegistrationTest" finished-at="2021-09-23T14:48:51 IST" duration-ms="9103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegistrationTest -->
+        <test-method is-config="true" signature="quitDriver(org.testng.ITestResult)[pri:0, instance:org.inetbanking.tests.RegistrationTest@1f9ce3e]" started-at="2021-09-23T14:48:51 IST" name="quitDriver" finished-at="2021-09-23T14:48:52 IST" duration-ms="1669" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=RegistrationTest status=SUCCESS method=RegistrationTest.RegistrationTest()[pri:0, instance:org.inetbanking.tests.RegistrationTest@1f9ce3e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- org.inetbanking.tests.RegistrationTest -->
+    </test> <!-- Ecommerce_Test -->
+  </suite> <!-- inetBankingV1 -->
+</testng-results>

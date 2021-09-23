@@ -32,5 +32,7 @@ public class LoginTest extends BaseTest {
 
         loginPage.clickLogoutBtn();
         logger.info("Clicked Logout button");
+
+        System.out.println("Login Successful......");
     }
 }

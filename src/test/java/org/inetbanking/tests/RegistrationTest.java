@@ -30,6 +30,7 @@ public class RegistrationTest extends BaseTest {
                 enterPassword("albitharpwd");
         registrationPage.
                 clickRegisterBtn();
+        System.out.println("Registration Successful......");
 
 
     }

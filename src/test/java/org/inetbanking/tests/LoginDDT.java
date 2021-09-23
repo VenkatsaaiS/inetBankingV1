@@ -36,6 +36,8 @@ public class LoginDDT extends BaseTest
 
         loginPage.clickLogoutBtn();
         logger.info("Clicked Logout button");
+
+        System.out.println("Login Successful......");
     }
 
     @DataProvider(name="LoginData")
